@@ -25,4 +25,4 @@ sudo add-apt-repository \
 sudo apt-get install docker-ce -y
 #Add docker python package
 sudo apt-get install python-pip -y
-sudo pip3 install docker
+sudo pip install docker
